@@ -1,2 +1,2 @@
 Dali 2 certified!s
-t
+Dali state machine initialized.
